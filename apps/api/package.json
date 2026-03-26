@@ -18,6 +18,9 @@
     "zod": "^4.3.6"
   },
   "devDependencies": {
+    "@prisma/config": "^7.5.0",
+    "@types/node": "^25.5.0",
+    "dotenv": "^17.3.1",
     "prisma": "^7.5.0"
   }
 }
